@@ -1,2 +1,2 @@
 # albedo-grpc
-spring-cloud grpc zookeeper eureka
+spring spring-cloud grpc zookeeper eureka
