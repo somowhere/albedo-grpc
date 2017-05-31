@@ -1,0 +1,17 @@
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\DiscoveryClientResolverFactory.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\GlobalClientInterceptorRegistry.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\GrpcClient.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\AddressChannelFactory.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\TraceClientInterceptor.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\autoconfigure\GrpcClientAutoConfiguration.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\GrpcClientBeanPostProcessor.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\AddressChannelResolverFactory.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\EurekaClientInstance.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\GlobalClientInterceptorConfigurerAdapter.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\AddressChannelNameResolver.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\GrpcChannelFactory.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\autoconfigure\GrpcChannelProperties.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\autoconfigure\GrpcChannelsProperties.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\DiscoveryClientChannelFactory.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\MetadataInjector.java
+D:\albedo\albedo-grpc\albedo-grpc-client-netflix\src\main\java\com\albedo\java\grpc\client\DiscoveryClientNameResolver.java
